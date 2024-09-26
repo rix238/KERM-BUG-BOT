@@ -11,13 +11,13 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "237656520674"
-global.ownername = "KgTech👽"
+global.ownernomer = "242069588831"
+global.ownername = "ngh"
 global.ytname = "YT: Kermhacktools"
 global.socialm = "GitHub: Kgtech-cmt"
 global.location = "India, UP, rampur"
 
-global.ownernumber = '237656520674'  //creator number
+global.ownernumber = '242069588831'  //creator number
 global.ownername = 'KgTech👽' //owner name
 global.botname = 'KERM-BUG-BOT' //name of the bot
 
@@ -36,13 +36,13 @@ global.link = 'https://whatsapp.com/channel/0029Vafn6hc7DAX3fzsKtn45'
 global.prefa = ['','!','.']
 
 //false=disable and true=enable
-global.autoRecording = true //auto recording
+global.autoRecording = false //auto recording
 global.autoTyping = false //auto typing
 global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = false //auto update bio
 global.anti92 = false //auto block +92 
-global.autoswview = true //auto view status/story
+global.autoswview = false //auto view status/story
 
 //menu type 
 //v1 is image menu, 
